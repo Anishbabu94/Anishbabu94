@@ -49,7 +49,7 @@
         Student event discovery platform with React, React Router, and structured RSVP workflows.
 
         ### 🛫 [Smart AI Travel Assistant](https://github.com/Anishbabu94/Smart_AI_Travel_Assistant)
-        AI-powered travel planning assistant built with Python.
+        AI powered travel planning assistant built with Python.
 
         ### 🔍 [Fake Profile Detection — Ensemble Approach](https://github.com/Anishbabu94/FAKE-PROFILES-Ensemble-Approach)
         ML ensemble (Neural Network, Random Forest, SVM) for social media fake profile detection.
