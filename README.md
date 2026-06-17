@@ -59,7 +59,7 @@
         ## 📜 Certifications
 
         - 🏆 AWS Certified Developer (Associate) — Amazon Web Services
-        - - 🤖 Generative AI: Prompt Engineering — IBM
+        - - 🤖 Generative AI, Prompt Engineering — IBM
           - - 🏦 Software Engineering Job Simulation — JPMorganChase
             - - 🧠 AI For Everyone — DeepLearning.AI
               - - 🔧 Claude Code 101 — Anthropic
