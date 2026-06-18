@@ -1,6 +1,6 @@
 # Hi, I'm Anish Babu Allamneni 👋
 
-**AI Engineer** based in Detroit, MI, building production grade LLM and agentic systems that actually ship.
+**AI Engineer** based in Detroit, MI, building production grade LLMs and agentic systems that actually ship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishbabuallamneni/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anishallamneni@gmail.com)
