@@ -13,7 +13,7 @@
 - 🔭 Currently at **ThinkDigits Inc** (Client: Duro Last) — engineering AI agents on **Amazon Bedrock (Claude Sonnet)** to automate ML pipeline triage with 60% faster mean time-to-resolution
 - - 🤖 4+ years building end-to-end AI: from **RAG pipelines & vector search (SBERT)** to **real-time React dashboards** backed by AWS Athena
   - - ⚡ Passionate about **LLM orchestration, agentic workflows, and responsible GenAI deployment** in enterprise environments
-    - - 🎓 M.S. Computer Science — Lawrence Technological University (Dec 2025)
+    - - 🎓 M.S. Computer Science —Lawrence Technological University (Dec 2025)
       - - 📍 Open to Relocate | Detroit, MI
        
         - ---
